@@ -1,0 +1,426 @@
+﻿Q: What is the sentiment of this review: The grog was excellent and the shanties were lively! Best pub in port! Felt like a true pirate.
+A: Positive
+
+
+Q: What is the sentiment of this review: Service was terribly slow, and my fish was cold. I've had better on a deserted island.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub has a decent selection of ales and is located near the docks. It was an average experience.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Arrr, the Captain's Roast was a feast fit for a king! The wenches were quick with the rum too. Five stars!
+A: Positive
+
+
+Q: What is the sentiment of this review: The place was too crowded and noisy. Couldn't even hear meself think, let alone enjoy me drink.
+A: Negative
+
+
+Q: What is the sentiment of this review: It's a pub. They serve drinks. It was fine.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Loved the pirate decor! The staff all stayed in character and made it a really fun night out. The Black Forge Wings were amazing!
+A: Positive
+
+
+Q: What is the sentiment of this review: The prices be daylight robbery! A simple ale cost more than a gold doubloon. Never again.
+A: Negative
+
+
+Q: What is the sentiment of this review: The establishment was clean and the beer was served at an appropriate temperature.
+A: Neutral
+
+
+Q: What is the sentiment of this review: An absolutely fantastic experience! The atmosphere was electric, and the Plundered Shrimp Skewers were divine. Highly recommend!
+A: Positive
+
+
+Q: What is the sentiment of this review: My order was completely wrong, and the barman was rude when I pointed it out. Awful service.
+A: Negative
+
+
+Q: What is the sentiment of this review: The music was a bit loud for my taste, but the drink selection was adequate.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Felt like I stepped onto a real pirate ship! The attention to detail in the theme is incredible. Plus, the Pirate's Punch packs a wallop!
+A: Positive
+
+
+Q: What is the sentiment of this review: Waited an hour for food that was barely lukewarm. The "treasure" wasn't worth the wait.
+A: Negative
+
+
+Q: What is the sentiment of this review: It's a themed bar. It met expectations for a themed bar.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The live sea shanties were the highlight of our trip to Birmingham! Such a unique and fun place.
+A: Positive
+
+
+Q: What is the sentiment of this review: The toilets were disgusting. Clearly haven't seen a mop in weeks. Spoiled the whole evening.
+A: Negative
+
+
+Q: What is the sentiment of this review: Parking was a bit tricky to find, but the pub itself was alright.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Best night out I've had in ages! The staff were friendly, the drinks were strong, and the pirate vibe was top-notch.
+A: Positive
+
+
+Q: What is the sentiment of this review: Overpriced and underwhelming. The "pirate feast" was more like a meagre ration.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is located centrally. The menu has several options.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The Ironbound Beef Stew warmed me bones on a chilly night! Hearty and delicious.
+A: Positive
+
+
+Q: What is the sentiment of this review: The music was so loud we had to shout to each other. Not ideal for a conversation.
+A: Negative
+
+
+Q: What is the sentiment of this review: The chairs were a bit uncomfortable, but the service was prompt.
+A: Neutral
+
+
+Q: What is the sentiment of this_review: A truly memorable experience! The pirate actors were hilarious and engaging. Will definitely be back for more grog!
+A: Positive
+
+
+Q: What is the sentiment of this review: The ale tasted watered down, and the "pirate" theme felt a bit forced and cheesy.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub offers a standard range of beers and spirits.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The atmosphere is just incredible! You really feel like you've been transported to a pirate haven. Food was great too!
+A: Positive
+
+
+Q: What is the sentiment of this review: Found a hair in my food. The manager was apologetic but it ruined my appetite.
+A: Negative
+
+
+Q: What is the sentiment of this review: It's a pub with a pirate theme. It does what it says on the tin.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The kids loved the treasure hunt event! Staff were great with them. A fantastic family-friendly outing during the day.
+A: Positive
+
+
+Q: What is the sentiment of this review: Took ages to get served at the bar, even though it wasn't that busy. Frustrating.
+A: Negative
+
+
+Q: What is the sentiment of this review: The lighting was a bit dim in some areas. Otherwise, it was an okay place.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Every detail, from the ship decor to the "Arrr" from the staff, made this an authentic and fun experience! The food portions were generous.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "Captain's Special" cocktail was mostly ice and juice. Barely a whiff of rum. Disappointing for the price.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub has a website where you can view the menu.
+A: Neutral
+
+
+Q: What is the sentiment of this review: We hosted a party here and it was a massive success! The team helped us with everything, and our guests had a swashbuckling good time!
+A: Positive
+
+
+Q: What is the sentiment of this review: The floor was sticky and there were uncleared tables everywhere. Didn't feel very clean.
+A: Negative
+
+
+Q: What is the sentiment of this review: They have happy hour specials on weekdays, which is a good deal.
+A: Positive
+
+
+Q: What is the sentiment of this review: The vegetarian options were very limited and not very inspiring.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is open until 10 PM on weekdays.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Such a cool spot! Themed drinks were fun and tasty, and the whole place had a great energy.
+A: Positive
+
+
+Q: What is the sentiment of this review: My tankard had a chip in it, and the replacement wasn't much better. Attention to detail lacking.
+A: Negative
+
+
+Q: What is the sentiment of this review: It's a place you can go to get a drink.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The staff went above and beyond to make my birthday celebration special! Truly felt like pirate royalty.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "live music" was just one guy with a out-of-tune guitar. Not what was advertised.
+A: Negative
+
+
+Q: What is the sentiment of this review: The menu prices are listed clearly.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Absolutely loved the hearty portions and the robust flavors of the food! The pirate theme just adds to the fun. A must-visit!
+A: Positive
+
+
+Q: What is the sentiment of this review: The pub claims to be family-friendly, but the evening crowd was quite rowdy and using foul language. Not great for kids.
+A: Negative
+
+
+Q: What is the sentiment of this review: They offer several types of rum.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The Kraken's Catch was cooked to perfection, flaky and flavorful. A true taste of the sea!
+A: Positive
+
+
+Q: What is the sentiment of this review: Our reservation was messed up, and we had to wait 45 minutes for a table we booked. Poor organization.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub's location is convenient, right in the city center.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The pirate ship play area for kids is a brilliant idea! Kept them entertained for hours.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "treasure map" menu was confusing and hard to read in the dim light.
+A: Negative
+
+
+Q: What is the sentiment of this review: They have a good variety of non-alcoholic pirate-themed drinks too, which was nice.
+A: Positive
+
+
+Q: What is the sentiment of this review: The music was okay, but it repeated the same three shanties all night.
+A: Neutral
+
+
+Q: What is the sentiment of this review: One of the animatronic pirates was broken and just twitching. A bit creepy.
+A: Negative
+
+
+Q: What is the sentiment of this review: The "walk the plank" dessert was a fun gimmick and actually tasted pretty good!
+A: Positive
+
+
+Q: What is the sentiment of this review: It's a bit on the expensive side for what it is, but you pay for the theme.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The staff were not very attentive; had to flag someone down every time we needed something.
+A: Negative
+
+
+Q: What is the sentiment of this review: I appreciated the effort they put into the costumes and the overall immersive feel.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "cursed treasure" cocktail was just a regular drink with a plastic spider in it. Not very cursed.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is quite spacious, with plenty of seating.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The way they announce your arrival with a "Ahoy Matey!" is a charming touch. Made us smile!
+A: Positive
+
+
+Q: What is the sentiment of this review: The "secret map" to the toilets was more annoying than fun, especially after a few rums.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub offers Wi-Fi, which was useful.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The storytelling session by "Captain Ironclad" himself was fantastic! Great for all ages.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "seaweed" garnish on my plate looked suspiciously like wilted lettuce.
+A: Negative
+
+
+Q: What is the sentiment of this review: They have a decent selection of local craft beers alongside the themed drinks.
+A: Positive
+
+
+Q: What is the sentiment of this review: The wait for the bill at the end of the night was excessively long.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is generally well-maintained.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The sword fight performance was surprisingly well-choreographed and exciting!
+A: Positive
+
+
+Q: What is the sentiment of this review: The "message in a bottle" special offer was just a discount coupon. A bit anticlimactic.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub has a good atmosphere for a casual night out with friends.
+A: Positive
+
+
+Q: What is the sentiment of this review: Some of the pirate props looked cheap and a bit worn out.
+A: Negative
+
+
+Q: What is the sentiment of this review: The opening hours are clearly displayed on the door.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The "walk the plank" challenge was hilarious to watch, even if I didn't dare try it!
+A: Positive
+
+
+Q: What is the sentiment of this review: The music volume made it hard to have a proper conversation without shouting.
+A: Negative
+
+
+Q: What is the sentiment of this review: They accept credit card payments, which is convenient.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The bar staff were quick and efficient, even when it got busy. Great service at the bar!
+A: Positive
+
+
+Q: What is the sentiment of this review: The "treasure chest" dessert was mostly whipped cream and a few pieces of fruit. Not much treasure.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub has a distinct theme that sets it apart from other local bars.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The "Captain's Table" experience was worth every penny for our special occasion!
+A: Positive
+
+
+Q: What is the sentiment of this review: The air conditioning was blasting, making it uncomfortably cold inside.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is easy to find using online maps.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The interactive elements, like the talking parrot, were a big hit with everyone in our group.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "sea monster" mural on the wall was peeling in places. Needs a touch-up.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub offers a good range of seating options, from booths to barstools.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Our server was incredibly knowledgeable about the different rums and helped us pick a fantastic one!
+A: Positive
+
+
+Q: What is the sentiment of this review: The "pirate curse" cocktail tasted like cough syrup. Definitely cursed.
+A: Negative
+
+
+Q: What is the sentiment of this review: The establishment has a clear emergency exit path.
+A: Neutral
+
+
+Q: What is the sentiment of this review: Themed nights are a blast! "Talk Like a Pirate Day" here is an absolute riot.
+A: Positive
+
+
+Q: What is the sentiment of this review: My "gold doubloon" chocolate coin was just a cheap piece of candy.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is well-lit enough to read the menu.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The staff's enthusiasm for the pirate theme is infectious! They genuinely seem to enjoy their jobs.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "message in a bottle" game was rigged. My bottle just had an ad for their t-shirts.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is wheelchair accessible.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The "buried treasure" nachos were a mountain of deliciousness! Enough for the whole crew.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "captain's quarters" private room was damp and smelled musty.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub has a clear policy on underage drinking.
+A: Neutral
+
+
+Q: What is the sentiment of this review: I left my hat behind and the staff kept it safe for me until I could return. Honest pirates!
+A: Positive
+
+
+Q: What is the sentiment of this review: The "ghostly galleon" cocktail was just blue curaçao and soda. Not very ghostly.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub is located within walking distance of several hotels.
+A: Neutral
+
+
+Q: What is the sentiment of this review: The live band playing pirate music was incredibly talented and created an amazing atmosphere.
+A: Positive
+
+
+Q: What is the sentiment of this review: The "plank" I had to walk for a dare was wobbly and unsafe. Not funny.
+A: Negative
+
+
+Q: What is the sentiment of this review: The pub has a lost and found.
+A: Neutral
