@@ -3,7 +3,7 @@
 This comprehensive guide walks through fine-tuning the `google/flan-t5-small` model to classify pub review sentiment. It covers Hugging Face setup, fine-tuning in a new Google Colab notebook using your ~100 review `pub_reviews.txt` dataset, and deploying the trained LoRA adapter to a Hugging Face Space.
 
 ## Slide Deck  
-[View the presentation]([https://docs.google.com/presentation/d/XXXXXXXXXXXX/edit?usp=sharing](https://docs.google.com/presentation/d/1buUhVsJsVpvLoIXYNNiiclXNlT5tOC8pLrXKxK2clnM/edit?usp=sharing))
+[View the presentation](https://docs.google.com/presentation/d/1buUhVsJsVpvLoIXYNNiiclXNlT5tOC8pLrXKxK2clnM/edit?usp=sharing)
 
 ## Phase 0: Hugging Face Account & Space Setup
 
